@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalraj07&label=Profile%20views&color=0e75b6&style=flat" alt="himalraj07" /> </p>
 
-- 🌱 I’m currently learning **C++ Programming**
+- 👋 Hi, I’m **Himal Raj Bhusal / @himalraj07**
+
+- 👀 I’m interested in **Web Development**
+
+- 🌱 I’m currently learning **Frontend Development**
 
 - 💬 Ask me about **C, C++**
 
