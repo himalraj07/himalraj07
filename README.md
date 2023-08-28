@@ -10,6 +10,15 @@
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript**
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
 
+## 📬 Connect with me :
+<p align="left">
+<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himal Raj Bhusal LinkedIn" height="30" width="40" /> </a>
+<a href="https://github.com/himalraj07" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Himal Raj Bhusal Github" height="40" width="40" /> </a>
+<a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Himal Raj Bhusal Youtube" height="40" width="40" /> </a>
+<a href="https://www.instagram.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Himal Raj Bhusal Instagram" height="40" width="40" /> </a>
+<a href="https://www.facebook.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Himal Raj Bhusal Facebook" height="40" width="40" /> </a>
+</p><br/><br/>
+
 ## 💻 Languages and Tools :
 <p align="left">
 <a href="https://github.com/himalraj07/C-Basic-Programming" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -21,7 +30,7 @@
 
 ## 📊 GitHub Status :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="himalraj07" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="himalraj07" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="himalraj07" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himalraj07&theme=dark&hide_border=false" alt="himalraj07" /></p>
 
 ## 🏆 GitHub Trophies
