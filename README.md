@@ -20,9 +20,9 @@
 </p>
 
 ## 📊 GitHub Status :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=himalraj07&theme=dark&hide_border=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="himalraj07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="himalraj07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himalraj07&theme=dark&hide_border=false" alt="himalraj07" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himalraj07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
