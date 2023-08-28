@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himal Raj Bhusal.</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Himal Raj Bhusal.</h1>
 
 <h3 align="center">A passionate full stack developer from Nepal.</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalraj07&label=Profile%20views&color=0e75b6&style=flat" alt="himalraj07" /> </p>
 
-- 👋 Hi, I’m **Himal Raj Bhusal / @himalraj07**
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hi, I’m **Himal Raj Bhusal / @himalraj07**
 
 - 👀 I’m interested in **Web Development**
 
