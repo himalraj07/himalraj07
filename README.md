@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Frontend Development.**
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript.**
 - 👯 I’m open for **freelance projects.**
-- 🔭 I belive in **Hardwork and Patiente.**
+- 🔭 I belive in **Hardwork and Consistency.**
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
 
 ## 📬 Connect with me :
