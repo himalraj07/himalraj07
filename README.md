@@ -5,9 +5,11 @@
 
 ## 💫 About Me :
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hi, I’m **Himal Raj Bhusal / @himalraj07**
-- 👀 I’m interested in **Web Development**
-- 🌱 I’m currently learning **Frontend Development**
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript**
+- 👀 I’m interested in **Web Development.**
+- 🌱 I’m currently learning **Frontend Development.**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript.**
+- 👯 I’m open for **freelance projects.**
+- 🔭 I belive in **Hardwork and Patiente.**
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
 
 ## 📬 Connect with me :
