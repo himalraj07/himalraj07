@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Status :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="himalraj07" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himalraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="himalraj07" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himalraj07&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="himalraj07" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himalraj07&theme=dark&hide_border=false" alt="himalraj07" /></p>
 
 ## 🏆 GitHub Trophies
