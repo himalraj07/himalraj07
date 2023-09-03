@@ -7,7 +7,7 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hi, I’m **Himal Raj Bhusal / @himalraj07**
 - 👀 I’m interested in **Web Development.**
 - 🌱 I’m currently learning **Frontend Development.**
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript.**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, Java.**
 - 👯 I’m open for **freelance projects.**
 - 🔭 I belive in **Hardwork and Consistency.**
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
@@ -38,4 +38,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himalraj07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
