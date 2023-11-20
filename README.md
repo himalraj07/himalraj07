@@ -14,12 +14,14 @@
 
 ## 📬 Connect with me :
 <p align="left">
+<a href="https://twitter.com/" target="blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Himal Raj Bhusal twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himal Raj Bhusal Linkedin" height="30" width="40" /> </a>
 <a href="https://github.com/himalraj07" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Himal Raj Bhusal Github" height="40" width="40" /> </a>
 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Himal Raj Bhusal Youtube" height="40" width="40" /> </a>
 <a href="https://www.instagram.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Himal Raj Bhusal Instagram" height="40" width="40" /> </a>
 <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Himal Raj Bhusal Facebook" height="40" width="40" /> </a>
-</p><br/><br/>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Himal Raj Bhusal Leetcode" height="30" width="40" /></a>
+</p>
 
 ## 💻 Languages and Tools :
 <p align="left">
