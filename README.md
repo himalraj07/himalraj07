@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Frontend Development.**
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, Java.**
 - 👯 I’m open for **freelance projects.**
+- 💞️ I’m looking to collaborate on **Full Stack Projects.**
 - 🔭 I belive in **Hardwork and Consistency.**
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
 
