@@ -15,9 +15,9 @@
 ## 📬 Connect with me :
 <p align="left">
   <a href="#"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/himalraj07/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/himalraj07/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"/></a>
   <a href="#"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Himal Raj Bhusal Github" height="40" width="40"/></a>
-  <a href="https://www.youtube.com/@UntilEndGaming" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="40"/></a>
+  <a href="https://www.youtube.com/@UntilEndGaming"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="40"/></a>
   <a href="#"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40"/></a>
   <a href="#"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="40" width="40"/></a>
   <a href="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40"/></a>
