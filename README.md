@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20full%20stack%20%20developer%20from%20Nepal.;Contributed%20to%2015+%2B%20real%20world%20projects;1.5+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<!-- <h3 align="center">A passionate full stack developer from Nepal.</h3> -->
-
 <a href="#"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalraj07&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
@@ -20,10 +18,42 @@
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
 
 ## 📬 Connect with me :
-<p align="left"> <a href="https://github.com/himalraj07"><img src="https://skillicons.dev/icons?i=twitter,linkedin,github,instagram,discord"> </a> </p>
+<p align="left"> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"> </a>
+  <a href="https://www.linkedin.com/in/himalraj07/"><img src="https://skillicons.dev/icons?i=linkedin"> </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github"> </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"> </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord"> </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=stackoverflow"> </a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="45"/> </a>
+  <a href="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="43"/> </a>
+  <a href="https://www.youtube.com/@UntilEndGaming"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50" /> </a>
+</p>
 
 ## 💻 Languages and Tools :
-<p align="left"> <a href="https://github.com/himalraj07"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,nodejs,c,cpp,angular,react,tailwind,bootstrap,mysql,figma,git,stackoverflow,visualstudio"> </a> </p>
+<p align="left"> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=c+programming&type=&language=&sort="><img src="https://skillicons.dev/icons?i=c"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=cpp&type=&language=&sort="><img src="https://skillicons.dev/icons?i=cpp"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=html"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=css"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=js"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=sass"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=react"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=angular"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=express"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=python"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=replit"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=github"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=stackoverflow"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=git"> </a> 
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma"> </a>   
+</p>
 
 ## 📊 GitHub Status :
 <p><img align="left" width="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="himalraj07"/></p>
