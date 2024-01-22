@@ -20,7 +20,7 @@
 - ⚡ Fun fact **"Hello, World!" is a common starting point for programming.**
 
 ## 📬 Connect with me :
-<p align="left"> <a href="https://github.com/himalraj07"><img src="https://skillicons.dev/icons?i=twitter,linkedin,github,instagram,facebook,leetcode"> </a> </p>
+<p align="left"> <a href="https://github.com/himalraj07"><img src="https://skillicons.dev/icons?i=twitter,linkedin,github,instagram,discord"> </a> </p>
 
 ## 💻 Languages and Tools :
 <p align="left"> <a href="https://github.com/himalraj07"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,nodejs,c,cpp,angular,react,tailwind,bootstrap,mysql,figma,git,stackoverflow,visualstudio"> </a> </p>
