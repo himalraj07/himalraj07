@@ -1,7 +1,7 @@
 <h1 align="center">Hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>, I'm Himal Raj Bhusal.</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20full%20stack%20%20developer%20from%20Nepal.;Contributed%20to%2015+%2B%20real%20world%20projects;1.5+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20full%20stack%20%20developer%20from%20Nepal.;Contributed%20to%2015+%2B%20real%20world%20projects;1.5+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=FF3131&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <a href="#"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
