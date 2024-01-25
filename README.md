@@ -19,14 +19,14 @@
 
 ## 📬 Connect with me :
 <p align="left"> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"> </a>
+  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter"> </a>
   <a href="https://www.linkedin.com/in/himalraj07/"><img src="https://skillicons.dev/icons?i=linkedin"> </a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github"> </a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"> </a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord"> </a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=stackoverflow"> </a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="45"/> </a>
-  <a href="#"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="43"/> </a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"> </a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram"> </a>
+  <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord"> </a>
+  <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow"> </a>
+  <a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="45"/> </a>
+  <a href="https://leetcode.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="43"/> </a>
   <a href="https://www.youtube.com/@UntilEndGaming"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50" /> </a>
 </p>
 
@@ -34,25 +34,25 @@
 <p align="left"> 
   <a href="https://github.com/himalraj07?tab=repositories&q=c+programming&type=&language=&sort="><img src="https://skillicons.dev/icons?i=c"> </a> 
   <a href="https://github.com/himalraj07?tab=repositories&q=cpp&type=&language=&sort="><img src="https://skillicons.dev/icons?i=cpp"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=html"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=css"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=js"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=sass"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=react"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=angular"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=express"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=python"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=replit"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=github"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=stackoverflow"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=git"> </a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma"> </a>   
+  <a href="https://github.com/himalraj07?tab=repositories&q=html&type=&language=&sort="><img src="https://skillicons.dev/icons?i=html"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=css&type=&language=&sort="><img src="https://skillicons.dev/icons?i=css"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=javascript&type=&language=&sort="><img src="https://skillicons.dev/icons?i=js"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=bootstrap&type=&language=&sort="><img src="https://skillicons.dev/icons?i=bootstrap"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=sass&type=&language=&sort="><img src="https://skillicons.dev/icons?i=sass"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=react&type=&language=&sort="><img src="https://skillicons.dev/icons?i=react"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=angular&type=&language=&sort="><img src="https://skillicons.dev/icons?i=angular"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=nodejs&type=&language=&sort="><img src="https://skillicons.dev/icons?i=nodejs"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=express&type=&language=&sort="><img src="https://skillicons.dev/icons?i=express"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=python&type=&language=&sort="><img src="https://skillicons.dev/icons?i=python"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=mongodb&type=&language=&sort="><img src="https://skillicons.dev/icons?i=mongodb"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=mysql&type=&language=&sort="><img src="https://skillicons.dev/icons?i=mysql"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=vscode&type=&language=&sort="><img src="https://skillicons.dev/icons?i=vscode"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=visualstudio&type=&language=&sort="><img src="https://skillicons.dev/icons?i=visualstudio"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=replit&type=&language=&sort="><img src="https://skillicons.dev/icons?i=replit"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=github&type=&language=&sort="><img src="https://skillicons.dev/icons?i=github"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=stackoverflow&type=&language=&sort="><img src="https://skillicons.dev/icons?i=stackoverflow"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=git&type=&language=&sort="><img src="https://skillicons.dev/icons?i=git"> </a> 
+  <a href="https://github.com/himalraj07?tab=repositories&q=figma&type=&language=&sort="><img src="https://skillicons.dev/icons?i=figma"> </a>   
 </p>
 
 ## 📊 GitHub Status :
