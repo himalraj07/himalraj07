@@ -19,13 +19,13 @@
 
 ## 📬 Connect with me :
 <p align="left"> 
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter"> </a>
+  <a href="https://twitter.com/himalrajbhusal"><img src="https://skillicons.dev/icons?i=twitter"> </a>
   <a href="https://www.linkedin.com/in/himalraj07/"><img src="https://skillicons.dev/icons?i=linkedin"> </a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"> </a>
   <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram"> </a>
   <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord"> </a>
   <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow"> </a>
-  <a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="45"/> </a>
+  <a href="https://www.facebook.com/Himalrajbhusal"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="45"/> </a>
   <a href="https://leetcode.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="43"/> </a>
   <a href="https://www.youtube.com/@UntilEndGaming"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50" /> </a>
 </p>
