@@ -55,6 +55,9 @@
   <a href="https://github.com/himalraj07?tab=repositories&q=figma&type=&language=&sort="><img src="https://skillicons.dev/icons?i=figma"> </a>   
 </p>
 
+## ✨ Recent Projects
+- 🍔 [Omnifood](https://omnifood-himalraj.netlify.app/) 
+
 ## 📊 GitHub Status :
 <p><img align="left" width="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="himalraj07"/></p>
 <p><img align="left" width="287px" src="https://github-readme-stats.vercel.app/api?username=himalraj07&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="himalraj07"/></p>
