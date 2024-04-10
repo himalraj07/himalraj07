@@ -56,7 +56,7 @@
 </p>
 
 ## ✨ Recent Projects
-[`🍔 Omnifood`](https://omnifood-himalraj.netlify.app/)   |   [`🎲 Pig Game`](https://pig-game-himal.netlify.app/) 
+[`🍔 Omnifood`](https://omnifood-himalraj.netlify.app/) | [`🎲 Pig Game`](https://pig-game-himal.netlify.app/) | [`🌐 Portfolio Website`](https://www.himalrajbhusal7.com.np/) 
 
 ## 📊 GitHub Status
 <p><img align="left" width="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalraj07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="himalraj07"/></p>
